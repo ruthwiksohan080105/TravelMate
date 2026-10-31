@@ -1,16 +1,121 @@
-# React + Vite
+# ✈️ TravelMate – Travel Planning Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**TravelMate** is a responsive travel planning website built using React.js. It helps users explore exciting travel destinations, discover travel packages, read traveller experiences and plan their trips based on their preferences and estimated budgets.
 
-Currently, two official plugins are available:
+## 🌍 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+TravelMate provides a simple and interactive platform for users to explore destinations and organize their travel plans in one place.
 
-## React Compiler
+The website focuses on providing an attractive user interface, smooth navigation and useful trip-planning functionality.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Home Page:** Attractive landing page with a travel-themed hero section.
+- **Explore Destinations:** Browse different destinations with images, descriptions and estimated prices.
+- **Destination Search:** Search and filter destinations easily.
+- **Travel Packages:** Explore different travel package options.
+- **Traveller Reviews:** View sample traveller testimonials, experiences and star ratings.
+- **Trip Planner:** Create a personalized trip by entering trip details.
+- **Destination Selection:** Add or remove destinations from your planned trip.
+- **Dynamic Cost Calculation:** Automatically calculate the estimated total cost based on selected destinations and number of travellers.
+- **Responsive Design:** User-friendly layout for desktop, tablet and mobile screens.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| React.js | Frontend development |
+| JavaScript | Functionality and dynamic interactions |
+| HTML5 | Website structure |
+| CSS3 | Styling, animations and responsive design |
+| Vite | Development server and build tool |
+| Git & GitHub | Version control and project hosting |
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run TravelMate locally.
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/ruthwiksohan080105/TravelMate.git
+```
+
+**2. Navigate to the project directory**
+
+```bash
+cd TravelMate
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+**5. Open in your browser**
+
+Open the localhost URL displayed in your terminal (usually `http://localhost:5173/`).
+
+## 📁 Project Structure
+
+```text
+TravelMate/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+```
+
+## 🎯 Project Objectives
+
+- Develop practical skills in React.js and frontend development.
+- Understand component-based UI development.
+- Implement dynamic functionality using React Hooks.
+- Work with arrays, objects, map(), filter() and reduce().
+- Build a responsive and visually appealing website.
+- Understand Git and GitHub workflows.
+
+## 🚀 Future Enhancements
+
+- User registration and authentication.
+- Backend integration using Python or Node.js.
+- MySQL database integration.
+- Save and manage personalized travel itineraries.
+- User-submitted reviews and ratings.
+- Integration with maps and travel APIs.
+- Live travel booking functionality.
+
+## ⚠️ Disclaimer
+
+TravelMate is an educational frontend project. Destination prices are illustrative estimates, and traveller testimonials are sample demo content. The website does not currently provide actual travel bookings or payment processing.
+
+## 👨‍💻 Developer
+
+**Ruthwik Sohan**
+
+Full-Stack Developer
+
+- GitHub: https://github.com/ruthwiksohan080105
+- Project Repository: https://github.com/ruthwiksohan080105/TravelMate
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository!
