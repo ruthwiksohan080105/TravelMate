@@ -1,5 +1,13 @@
 # ✈️ TravelMate – Travel Planning Website
 
+## 🌐 Live Demo
+
+**Explore TravelMate here:**
+
+[Visit TravelMate Website](https://travelmate-ruthwik.netlify.app)
+
+---
+
 **TravelMate** is a responsive travel planning website built using React.js. It helps users explore exciting travel destinations, discover travel packages, read traveller experiences and plan their trips based on their preferences and estimated budgets.
 
 ## 🌍 Project Overview
